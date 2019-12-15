@@ -1,7 +1,7 @@
 def using_include["red", "pink", "green", "blue"]
-using_include.include?("Garfield")
+using_include.include?("pink")
 *   => false
-* famous_cats.include?("Maru")
+* using_includeinclude?("organe")
 *   => true
 end
 
