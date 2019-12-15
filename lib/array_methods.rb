@@ -7,7 +7,7 @@ end
 
 def using_sort["red", "pink", "green", "blue"]
    famous_cats.sort
-   => ["pink","red", "green", "blue"]
+   => ["pink","red","blue","green"]
 end
 
 def using_reverse["red", "pink", "green", "blue"]
