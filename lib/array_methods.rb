@@ -1,5 +1,8 @@
 def using_include["red", "pink", "green", "blue"]
-
+using_include.include?("Garfield")
+*   => false
+* famous_cats.include?("Maru")
+*   => true
 end
 
 def using_sort["red", "pink", "green", "blue"]
