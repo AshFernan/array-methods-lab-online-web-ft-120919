@@ -10,7 +10,7 @@ def using_sort["red", "pink", "green", "blue"]
 end
 
 def using_reverse["red", "pink", "green", "blue"]
-    using_reverse.
+    using_reverse.reverse
 end
 
 def using_first["red", "pink", "green", "blue"]
