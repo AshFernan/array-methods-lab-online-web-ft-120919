@@ -1,11 +1,12 @@
 def using_include["red", "pink", "green", "blue"]
-using_include.include?("pink")
-*   => false
-* using_includeinclude?("organe")
-*   => true
+  using_include.include?("pink")
+   => false
+  using_includeinclude?("orange")
+   => true
 end
 
 def using_sort["red", "pink", "green", "blue"]
+  
 end
 
 def using_reverse["red", "pink", "green", "blue"]
