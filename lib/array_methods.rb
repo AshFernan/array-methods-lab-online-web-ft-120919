@@ -22,5 +22,5 @@ def using_last["red", "pink", "green", "blue"]
 end
 
 def using_size["red", "pink", "green", "blue"]
-
+    using_size.size
 end
